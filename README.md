@@ -1,4 +1,4 @@
-# Project 1 @ CSC 201 Fall 2024: Binary Search Tree (Part 1)
+# Project 1 @ CSC 201 Fall 2025: Binary Search Tree (Part 1)
 
 ## Pledged Work Policy
 
